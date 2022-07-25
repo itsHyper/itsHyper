@@ -2,8 +2,7 @@
 
 ## About Me
 
-* Admin for [LJ Labs](https://discord.gg/ljlabs)
-* Developer For - [Project Sloth](https://github.com/Project-Sloth)
+* Admin & Developer for - [Project Sloth](https://github.com/Project-Sloth)
 * Go Support [QBCore Framework](https://discord.gg/qbcore)
 * if you like my work and would like to buy me some coffee! - https://ko-fi.com/hypertv
  ## Known Languages
