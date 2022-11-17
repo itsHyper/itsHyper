@@ -2,8 +2,7 @@
 
 ## About Me
 
-* Admin & Developer for - [Project Sloth](https://github.com/Project-Sloth)
-* Go Support [QBCore Framework](https://discord.gg/qbcore)
+* Founder & Developer for - [Redline Studios](https://discord.gg/tQvhYW9556) 
 * if you like my work and would like to buy me some coffee! - https://ko-fi.com/hypertv
  ## Known Languages
 
